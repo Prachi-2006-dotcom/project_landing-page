@@ -3,8 +3,10 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to right, #ff6a5f, #e9fe75);
-    color:yellow;
+    background-image: url(https://t4.ftcdn.net/jpg/06/57/20/69/360_F_657206985_7JnPZxrSIP9L6Pk3dyf9i8ljFEpv8iqZ.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #e9fe75;
 }
 header {
     padding: 50px;
@@ -19,7 +21,7 @@ button {
     transition:0.3s ease, transform 0.2s ease; /* Added missing 's' unit */
 }
 p {
-    color:white
+    color:rgb(40, 187, 187)
  }
 
 button:hover
